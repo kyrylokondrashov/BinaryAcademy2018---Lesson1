@@ -71,7 +71,7 @@ namespace BSA4
                 {
                     u.todos.Add(elem);
                 }
-                Console.WriteLine(u);
+                //Console.WriteLine(u);
             }
         }
         public static string GetJson(string url)
